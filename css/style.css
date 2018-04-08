@@ -162,4 +162,13 @@ body{
     font-family: 'Gaegu', cursive;
     font-size: 20px;
     text-decoration: underline;
+    color: blue;
+}
+#type{
+    
+    background-color : gold;
+    height : 50px;
+    width:225px;
+    border-radius: 10px;
+    float: left;
 }
