@@ -172,3 +172,23 @@ body{
     border-radius: 10px;
     float: left;
 }
+#types{
+    
+    background-color : gold;
+    height : 50px;
+    width:225px;
+    border-radius: 10px;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+}
+#electric{
+    background-color : yellow;
+    height : 50px;
+    width:70px;
+    margin-left: 7px;
+    border-radius: 10px;
+    float: left;
+    padding:0px;
+    margin:0px;
+}
