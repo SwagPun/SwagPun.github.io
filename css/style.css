@@ -147,3 +147,9 @@ body{
     float: left;
     margin:7px;
 }
+#right{
+    margin-top: -15px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Hi Melody', cursive;
+}
