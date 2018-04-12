@@ -1,0 +1,21 @@
+#header{
+height: 50px;
+border-radius: 10px;
+margin-left:50px;
+    
+}
+#logo{
+     float: left;
+}
+#logoname{
+    float: left;
+    margin-left: 5px;
+    font-size: 20px;
+    color: black;
+    margin-top:-7px;
+}
+#pokemonlogo{
+    float: none;
+    margin-left: 40px;
+    padding: 100px;
+}
